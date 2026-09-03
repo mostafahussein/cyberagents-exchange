@@ -14,6 +14,7 @@
 </p>
 
 <p align="center">
+  <a href="https://exchange.tenable.com/discord"><img src="https://img.shields.io/badge/Discord-join%20us-5865F2?style=flat-square&logo=discord&logoColor=white" alt="Discord"></a>
   <a href="https://x.com/CyberAgentEx"><img src="https://img.shields.io/badge/follow-%40CyberAgentEx-000000?style=flat-square&logo=x&logoColor=white" alt="X"></a>
   <a href="https://www.youtube.com/@CyberAgentEx"><img src="https://img.shields.io/badge/YouTube-%40CyberAgentEx-FF0000?style=flat-square&logo=youtube&logoColor=white" alt="YouTube"></a>
 </p>
@@ -64,6 +65,27 @@ Before you start, your project needs:
 
 See the [Contribute page](https://exchange.tenable.com/contributing/) for a walkthrough.
 
+## Show It Off
+
+Once your listing goes live, add this badge to your README to showcase your contribution.
+
+[![Listed on CyberAgents Exchange](https://img.shields.io/badge/CyberAgents%20Exchange-Listed-E7FF00?style=flat-square&labelColor=1E2426)](https://exchange.tenable.com/)
+
+```markdown
+[![Listed on CyberAgents Exchange](https://img.shields.io/badge/CyberAgents%20Exchange-Listed-E7FF00?style=flat-square&labelColor=1E2426)](https://exchange.tenable.com/)
+```
+
+Also, every contributor gets a profile page at `exchange.tenable.com/contributors/<your-github-handle>`!
+
+<details>
+<summary>HTML variant</summary>
+
+```html
+<a href="https://exchange.tenable.com/"><img src="https://img.shields.io/badge/CyberAgents%20Exchange-Listed-E7FF00?style=flat-square&labelColor=1E2426" alt="Listed on CyberAgents Exchange"></a>
+```
+
+</details>
+
 ## Repository Layout
 
 ```
@@ -109,10 +131,11 @@ More at [exchange.tenable.com/about](https://exchange.tenable.com/about/).
 
 ## Questions & Support
 
+- **Community chat** — [join us on Discord](https://exchange.tenable.com/discord) for questions, help, and what's landing next
 - **General questions** — visit [exchange.tenable.com](https://exchange.tenable.com/)
 - **Issues & feature requests** — [open a GitHub issue](https://github.com/tenable/cyberagents-exchange/issues)
 - **Security concerns with a listed contribution** — reach out to the repository owner; if needed, use [GitHub Security Advisories](https://docs.github.com/en/code-security/concepts/vulnerability-reporting-and-management/repository-security-advisories)
 
-Follow along on [X](https://x.com/CyberAgentEx) and [YouTube](https://www.youtube.com/@CyberAgentEx).
+Come hang out on [Discord](https://exchange.tenable.com/discord), and follow along on [X](https://x.com/CyberAgentEx) and [YouTube](https://www.youtube.com/@CyberAgentEx).
 
 Listings are licensed by their respective authors — check each linked repository for its license. See [SECURITY.md](SECURITY.md) and the [CyberAgents Contribution Agreement](docs/CyberAgents_Contribution_Agreement).
