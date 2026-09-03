@@ -1,4 +1,5 @@
 ---
+last_reviewed: 2026-09-03
 name: "k8s-sec-agent"
 author: "mostafahussein"
 github_url: "https://github.com/mostafahussein/k8s-sec-agent"
