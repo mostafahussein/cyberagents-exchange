@@ -1,4 +1,5 @@
 ---
+last_reviewed: 2026-09-14
 name: "PDF Analyzer"
 author: "mostafahussein"
 github_url: "https://github.com/mostafahussein/pdf-analyzer"
